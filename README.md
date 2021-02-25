@@ -22,3 +22,4 @@
 - Next.js
 
 Feito por [Gustavo Mendes](https://github.com/Gustavo-Developer) Durante a NLW v.4 🚀.
+Esse Repósitorio contém uma [MIT Licence]

@@ -3,7 +3,7 @@
 ### ✨ Conheça o Moveit 🚀 feito durando a NLW v.4 🚀
 
 <div>
-   <img src="./screenproject.png" width="100%">
+   <img src="./public/screenproject.png" width="100%">
 </div>
 
 ### ☄️ Descrição ☄️

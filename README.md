@@ -1,8 +1,6 @@
 <img src="./public/logo-full.svg" width="100%">
 
-### ✨ Esse é mais um projeto feito durando a NLW v.4 🚀
-
-### ✨ Conheça o Moveit 🚀
+### ✨ Conheça o Moveit 🚀 feito durando a NLW v.4 🚀
 
 <div>
    <img src="./screenproject.png" width="100%">

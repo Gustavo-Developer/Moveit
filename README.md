@@ -21,5 +21,5 @@
 - React
 - Next.js
 
-Feito por [Gustavo Mendes](https://github.com/Gustavo-Developer) Durante a NLW v.4 🚀.
+Feito por [Gustavo Mendes](https://github.com/Gustavo-Developer) Durante a NLW v.4 🚀. <br>
 Esse Repósitorio contém uma [MIT Licence]

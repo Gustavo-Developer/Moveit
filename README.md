@@ -2,10 +2,7 @@
 
 ### ✨ Conheça o Moveit 🚀 feito durando a NLW v.4 🚀
 
-<div>
-   <img src="./public/screenproject.png" width="100%">
-</div>
-
+<br>
 ### ☄️ Descrição ☄️
 
 <p>
@@ -14,6 +11,10 @@
    Você mantém um foco no aprendizado durante um determinado tempo e após isso recebe desafios, <br>
    Seus desafios conclídos geram XP que te levam para o próximo Level 🚀 <br>
 </p>
+
+<div>
+   <img src="./public/screenproject.png" width="100%">
+</div>
 
 ### 🌌 Tecnologias 🌌
 

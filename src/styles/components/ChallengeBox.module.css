@@ -101,7 +101,7 @@
   background-color: var(--red);
 }
 
-.challengeActive footer button.challengeSucceededButton {
+.challengeActive footer button.challengeSuccedeedButton {
   background-color: var(--green);
 }
 

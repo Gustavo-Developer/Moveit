@@ -1,8 +1,7 @@
 <img src="./public/logo-full.svg" width="100%">
 
-### ✨ Conheça o Moveit 🚀 feito durando a NLW v.4 🚀
+### ✨ Conheça o Moveit 🚀 feito durando a NLW v.4 🚀 <br>
 
-<br>
 ### ☄️ Descrição ☄️
 
 <p>

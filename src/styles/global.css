@@ -5,7 +5,7 @@
 
 }
 
-:root{
+/* :root{
     --white: #fff;
     --background: #f2f3f5;
     --gray-line: #dcdde0;
@@ -17,7 +17,24 @@
     --blue: #5965e0;
     --blue-dark: #4953b8;
     --blue-twitter: #2aa9e2;
+} */
+:root{
+    --white: #212025;
+    --background: #121214;
+    --gray-line: #dcdde0;
+    --text: #f2f3f5;
+    --text-highlight: #b3b9ff;
+    --title: #fff;
+    --red: #e83f5b;
+    --green: #4cd63b;
+    --blue: #5965e0;
+    --blue-dark: #4953b8;
+    --blue-twitter: #2aa9e2;
 }
+
+
+
+
 
 @media(fmax-width: 1080px){
     html{

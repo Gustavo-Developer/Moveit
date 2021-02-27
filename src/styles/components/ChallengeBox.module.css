@@ -14,6 +14,9 @@
   text-align: center;
 }
 
+
+
+
 .challengeNotActive {
   display: flex;
   flex-direction: column;
@@ -108,3 +111,5 @@
 .challengeActive footer button:hover {
   filter: brightness(0.9);
 }
+
+

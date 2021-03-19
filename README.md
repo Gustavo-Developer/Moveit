@@ -18,8 +18,8 @@
 ### 🌌 Tecnologias 🌌
 
 - Typescript
-- React
-- Next.js
+- ReactJs
+- NextJs
 
 Feito por [Gustavo Mendes](https://github.com/Gustavo-Developer) Durante a NLW v.4 🚀. <br>
 Esse Repósitorio contém uma [MIT Licence]
